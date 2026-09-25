@@ -26,6 +26,7 @@ The running example is a multi-tenant operations assistant: it reads authorized 
 
 - [01 — Requirements and capacity](lessons/01-requirements-and-capacity.md)
 - [02 — API boundaries and request lifecycle](lessons/02-api-boundaries-and-request-lifecycle.md)
-- Next: relational data modeling; caching; queues and idempotency.
+- [03 — Relational data modeling and indexes](lessons/03-relational-data-modeling-and-indexes.md)
+- Next: caching and invalidation; queues and idempotency.
 
 Each lesson includes a mental model, choices, failure modes, a worked example, interview practice, and references where useful. Daily updates should add a substantial lesson or refine an earlier one, update this index, and explain changes. Avoid invented performance claims.
