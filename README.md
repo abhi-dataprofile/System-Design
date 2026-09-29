@@ -30,6 +30,7 @@ The running example is a multi-tenant operations assistant: it reads authorized 
 - [04 — Caching and invalidation](lessons/04-caching-and-invalidation.md)
 - [05 — Queues, delivery semantics, and idempotent consumers](lessons/05-queues-delivery-semantics-and-idempotent-consumers.md)
 - [06 — Load balancing and stateless services](lessons/06-load-balancing-and-stateless-services.md)
-- Next: object storage and safe document ingestion.
+- [07 — Object storage and safe document ingestion](lessons/07-object-storage-and-safe-document-ingestion.md)
+- Next: search indexes and hybrid retrieval.
 
 Each lesson includes a mental model, choices, failure modes, a worked example, interview practice, and references where useful. Daily updates should add a substantial lesson or refine an earlier one, update this index, and explain changes. Avoid invented performance claims.
