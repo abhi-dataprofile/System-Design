@@ -33,6 +33,7 @@ The running example is a multi-tenant operations assistant: it reads authorized 
 - [07 — Object storage and safe document ingestion](lessons/07-object-storage-and-safe-document-ingestion.md)
 - [08 — Search indexes and hybrid retrieval](lessons/08-search-indexes-and-hybrid-retrieval.md)
 - [09 — Replication, consistency, and failover](lessons/09-replication-consistency-and-failover.md)
-- Next: identity, authorization, and tenant isolation.
+- [10 — Identity, authorization, and tenant isolation](lessons/10-identity-authorization-and-tenant-isolation.md)
+- Next: encryption, secrets, and key management.
 
 Each lesson includes a mental model, choices, failure modes, a worked example, interview practice, and references where useful. Daily updates should add a substantial lesson or refine an earlier one, update this index, and explain changes. Avoid invented performance claims.
