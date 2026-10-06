@@ -37,6 +37,7 @@ The running example is a multi-tenant operations assistant: it reads authorized 
 - [11 — Encryption, secrets, and key management](lessons/11-encryption-secrets-and-key-management.md)
 - [12 — Agent architecture, workflow state, and tool boundaries](lessons/12-agent-architecture-workflow-state-and-tool-boundaries.md)
 - [13 — AI evaluations, guardrails, and release gates](lessons/13-ai-evaluations-guardrails-and-release-gates.md)
-- Next: observability for distributed and AI workflows.
+- [14 — Observability for distributed and AI workflows](lessons/14-observability-for-distributed-and-ai-workflows.md)
+- Next: deployment strategies, feature flags, and safe rollouts.
 
 Each lesson includes a mental model, choices, failure modes, a worked example, interview practice, and references where useful. Daily updates should add a substantial lesson or refine an earlier one, update this index, and explain changes. Avoid invented performance claims.
