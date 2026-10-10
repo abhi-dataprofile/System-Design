@@ -41,6 +41,7 @@ The running example is a multi-tenant operations assistant: it reads authorized 
 - [15 — Deployment strategies, feature flags, and safe rollouts](lessons/15-deployment-strategies-feature-flags-and-safe-rollouts.md)
 - [16 — Incident response, graceful degradation, and recovery](lessons/16-incident-response-graceful-degradation-and-recovery.md)
 - [17 — Capacity planning, cost engineering, and multi-tenant fairness](lessons/17-capacity-planning-cost-engineering-and-multi-tenant-fairness.md)
-- Next: disaster recovery, backups, and regional continuity.
+- [18 — Disaster recovery, backups, and regional continuity](lessons/18-disaster-recovery-backups-and-regional-continuity.md)
+- Next: data contracts, schema evolution, and integration resilience.
 
 Each lesson includes a mental model, choices, failure modes, a worked example, interview practice, and references where useful. Daily updates should add a substantial lesson or refine an earlier one, update this index, and explain changes. Avoid invented performance claims.
