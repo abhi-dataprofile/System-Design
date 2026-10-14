@@ -44,6 +44,7 @@ The running example is a multi-tenant operations assistant: it reads authorized 
 - [18 — Disaster recovery, backups, and regional continuity](lessons/18-disaster-recovery-backups-and-regional-continuity.md)
 - [19 — Data contracts, schema evolution, and integration resilience](lessons/19-data-contracts-schema-evolution-and-integration-resilience.md)
 - [20 — Human review systems, approval queues, and operator experience](lessons/20-human-review-systems-approval-queues-and-operator-experience.md)
-- Next: privacy engineering, retention, and deletion workflows.
+- [21 — Privacy engineering, retention, and deletion workflows](lessons/21-privacy-engineering-retention-and-deletion-workflows.md)
+- Next: configuration management, policy engines, and tenant customization.
 
 Each lesson includes a mental model, choices, failure modes, a worked example, interview practice, and references where useful. Daily updates should add a substantial lesson or refine an earlier one, update this index, and explain changes. Avoid invented performance claims.
