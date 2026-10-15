@@ -45,6 +45,7 @@ The running example is a multi-tenant operations assistant: it reads authorized 
 - [19 — Data contracts, schema evolution, and integration resilience](lessons/19-data-contracts-schema-evolution-and-integration-resilience.md)
 - [20 — Human review systems, approval queues, and operator experience](lessons/20-human-review-systems-approval-queues-and-operator-experience.md)
 - [21 — Privacy engineering, retention, and deletion workflows](lessons/21-privacy-engineering-retention-and-deletion-workflows.md)
-- Next: configuration management, policy engines, and tenant customization.
+- [22 — Configuration management, policy engines, and tenant customization](lessons/22-configuration-management-policy-engines-and-tenant-customization.md)
+- Next: batch processing, stream processing, and change data capture.
 
 Each lesson includes a mental model, choices, failure modes, a worked example, interview practice, and references where useful. Daily updates should add a substantial lesson or refine an earlier one, update this index, and explain changes. Avoid invented performance claims.
