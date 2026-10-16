@@ -46,6 +46,7 @@ The running example is a multi-tenant operations assistant: it reads authorized 
 - [20 — Human review systems, approval queues, and operator experience](lessons/20-human-review-systems-approval-queues-and-operator-experience.md)
 - [21 — Privacy engineering, retention, and deletion workflows](lessons/21-privacy-engineering-retention-and-deletion-workflows.md)
 - [22 — Configuration management, policy engines, and tenant customization](lessons/22-configuration-management-policy-engines-and-tenant-customization.md)
-- Next: batch processing, stream processing, and change data capture.
+- [23 — Batch processing, stream processing, and change data capture](lessons/23-batch-stream-processing-and-change-data-capture.md)
+- Next: FDE discovery, integration architecture, and phased delivery.
 
 Each lesson includes a mental model, choices, failure modes, a worked example, interview practice, and references where useful. Daily updates should add a substantial lesson or refine an earlier one, update this index, and explain changes. Avoid invented performance claims.
