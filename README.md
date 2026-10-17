@@ -47,6 +47,7 @@ The running example is a multi-tenant operations assistant: it reads authorized 
 - [21 — Privacy engineering, retention, and deletion workflows](lessons/21-privacy-engineering-retention-and-deletion-workflows.md)
 - [22 — Configuration management, policy engines, and tenant customization](lessons/22-configuration-management-policy-engines-and-tenant-customization.md)
 - [23 — Batch processing, stream processing, and change data capture](lessons/23-batch-stream-processing-and-change-data-capture.md)
-- Next: FDE discovery, integration architecture, and phased delivery.
+- [24 — FDE discovery, integration architecture, and phased delivery](lessons/24-fde-discovery-integration-architecture-and-phased-delivery.md)
+- Next: end-to-end system design capstone for a multi-tenant AI operations assistant.
 
 Each lesson includes a mental model, choices, failure modes, a worked example, interview practice, and references where useful. Daily updates should add a substantial lesson or refine an earlier one, update this index, and explain changes. Avoid invented performance claims.
