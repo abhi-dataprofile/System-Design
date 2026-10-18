@@ -48,6 +48,7 @@ The running example is a multi-tenant operations assistant: it reads authorized 
 - [22 — Configuration management, policy engines, and tenant customization](lessons/22-configuration-management-policy-engines-and-tenant-customization.md)
 - [23 — Batch processing, stream processing, and change data capture](lessons/23-batch-stream-processing-and-change-data-capture.md)
 - [24 — FDE discovery, integration architecture, and phased delivery](lessons/24-fde-discovery-integration-architecture-and-phased-delivery.md)
-- Next: end-to-end system design capstone for a multi-tenant AI operations assistant.
+- [25 — End-to-end capstone: multi-tenant AI operations assistant](lessons/25-end-to-end-capstone-multi-tenant-ai-operations-assistant.md)
+- Next: system-design interview drills, scoring rubric, and answer refinement.
 
 Each lesson includes a mental model, choices, failure modes, a worked example, interview practice, and references where useful. Daily updates should add a substantial lesson or refine an earlier one, update this index, and explain changes. Avoid invented performance claims.
