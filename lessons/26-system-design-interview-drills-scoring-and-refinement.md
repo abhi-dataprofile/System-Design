@@ -538,6 +538,26 @@ A good refined answer becomes shorter and more precise.
 | “We’ll monitor it” | No actionable signals | SLO, alert, owner, runbook |
 | “Build full automation” | Unvalidated risk/adoption | Offline → shadow → assisted → bounded automation |
 
+## Failure modes
+
+| Failure | Interview consequence | Repair |
+| --- | --- | --- |
+| Architecture before requirements | Solves an assumed problem | Establish actors, journeys, SLOs, and non-goals |
+| Too many clarifying questions | No time to design | Ask high-leverage questions, state assumptions, proceed |
+| Estimates lack a decision | Arithmetic without value | Tie each estimate to capacity or architecture |
+| Components have no ownership | Generic box diagram | Name responsibility and source of truth |
+| Only happy path is traced | Reliability remains unproven | Inject omission, duplication, reordering, delay, corruption |
+| Retry is the only recovery | Duplicate or amplified failure | Add deadlines, idempotency, reconciliation, budgets |
+| Derived store becomes truth | Stale or conflicting state | Identify authority, versions, and rebuild path |
+| Tenant isolation appears late | Fundamental redesign risk | Make tenant context part of every boundary |
+| AI is used for deterministic truth | Unverifiable output | Keep rules/authority outside the model |
+| Human review is hand-waved | No queue or accountability | Define roles, evidence, plan binding, capacity |
+| Security is a closing sentence | Trust boundaries stay vague | Apply identity and policy through each flow |
+| Tradeoffs are generic | No evidence of judgment | Connect choice to a dominant requirement |
+| Deep dive covers easy path | Hard risk remains shallow | Choose the most uncertain consequential boundary |
+| Answer never converges | Interview ends without decision | Reserve time for risks, tradeoffs, and conclusion |
+| Memorized architecture resists changes | Poor collaboration signal | Update assumptions and design when prompted |
+
 ## Construction example
 
 Prompt:
