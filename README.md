@@ -51,6 +51,7 @@ The running example is a multi-tenant operations assistant: it reads authorized 
 - [25 — End-to-end capstone: multi-tenant AI operations assistant](lessons/25-end-to-end-capstone-multi-tenant-ai-operations-assistant.md)
 - [26 — System-design interview drills, scoring rubric, and answer refinement](lessons/26-system-design-interview-drills-scoring-and-refinement.md)
 - [27 — Distributed rate limiting, quotas, and admission control](lessons/27-distributed-rate-limiting-quotas-and-admission-control.md)
-- Next: distributed locks, leases, fencing tokens, and leader election.
+- [28 — Distributed locks, leases, fencing tokens, and leader election](lessons/28-distributed-locks-leases-fencing-tokens-and-leader-election.md)
+- Next: sharding, partitioning, rebalancing, and hot-key mitigation.
 
 Each lesson includes a mental model, choices, failure modes, a worked example, interview practice, and references where useful. Daily updates should add a substantial lesson or refine an earlier one, update this index, and explain changes. Avoid invented performance claims.
