@@ -53,6 +53,7 @@ The running example is a multi-tenant operations assistant: it reads authorized 
 - [27 — Distributed rate limiting, quotas, and admission control](lessons/27-distributed-rate-limiting-quotas-and-admission-control.md)
 - [28 — Distributed locks, leases, fencing tokens, and leader election](lessons/28-distributed-locks-leases-fencing-tokens-and-leader-election.md)
 - [29 — Sharding, partitioning, rebalancing, and hot-key mitigation](lessons/29-sharding-partitioning-rebalancing-and-hot-key-mitigation.md)
-- Next: service discovery, health checking, and resilient routing.
+- [30 — Service discovery, health checking, and resilient routing](lessons/30-service-discovery-health-checking-and-resilient-routing.md)
+- Next: time, ordering, logical clocks, and causal consistency.
 
 Each lesson includes a mental model, choices, failure modes, a worked example, interview practice, and references where useful. Daily updates should add a substantial lesson or refine an earlier one, update this index, and explain changes. Avoid invented performance claims.
