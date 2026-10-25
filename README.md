@@ -55,6 +55,7 @@ The running example is a multi-tenant operations assistant: it reads authorized 
 - [29 — Sharding, partitioning, rebalancing, and hot-key mitigation](lessons/29-sharding-partitioning-rebalancing-and-hot-key-mitigation.md)
 - [30 — Service discovery, health checking, and resilient routing](lessons/30-service-discovery-health-checking-and-resilient-routing.md)
 - [31 — Time, ordering, logical clocks, and causal consistency](lessons/31-time-ordering-logical-clocks-and-causal-consistency.md)
-- Next: distributed transactions, sagas, compensation, and reconciliation.
+- [32 — Distributed transactions, sagas, compensation, and reconciliation](lessons/32-distributed-transactions-sagas-compensation-and-reconciliation.md)
+- Next: load testing, chaos experiments, and performance validation.
 
 Each lesson includes a mental model, choices, failure modes, a worked example, interview practice, and references where useful. Daily updates should add a substantial lesson or refine an earlier one, update this index, and explain changes. Avoid invented performance claims.
