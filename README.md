@@ -58,6 +58,7 @@ The running example is a multi-tenant operations assistant: it reads authorized 
 - [32 — Distributed transactions, sagas, compensation, and reconciliation](lessons/32-distributed-transactions-sagas-compensation-and-reconciliation.md)
 - [33 — Load testing, chaos experiments, and performance validation](lessons/33-load-testing-chaos-experiments-and-performance-validation.md)
 - [34 — AI inference serving, batching, caching, and GPU capacity](lessons/34-ai-inference-serving-batching-caching-and-gpu-capacity.md)
-- Next: context engineering, prompt assembly, and token budgets.
+- [35 — Context engineering, prompt assembly, and token budgets](lessons/35-context-engineering-prompt-assembly-and-token-budgets.md)
+- Next: model registries, artifact lineage, and reproducible AI releases.
 
 Each lesson includes a mental model, choices, failure modes, a worked example, interview practice, and references where useful. Daily updates should add a substantial lesson or refine an earlier one, update this index, and explain changes. Avoid invented performance claims.
