@@ -62,6 +62,7 @@ The running example is a multi-tenant operations assistant: it reads authorized 
 - [36 — Model registries, artifact lineage, and reproducible AI releases](lessons/36-model-registries-artifact-lineage-and-reproducible-ai-releases.md)
 - [37 — Multimodal document intelligence, OCR, layout, and evidence extraction](lessons/37-multimodal-document-intelligence-ocr-layout-and-evidence-extraction.md)
 - [38 — Feature stores, point-in-time correctness, and training-serving consistency](lessons/38-feature-stores-point-in-time-correctness-and-training-serving-consistency.md)
-- Next: online experiments, shadow deployments, and causal measurement.
+- [39 — Online experiments, shadow deployments, and causal measurement](lessons/39-online-experiments-shadow-deployments-and-causal-measurement.md)
+- Next: model monitoring, drift detection, and production feedback loops.
 
 Each lesson includes a mental model, choices, failure modes, a worked example, interview practice, and references where useful. Daily updates should add a substantial lesson or refine an earlier one, update this index, and explain changes. Avoid invented performance claims.
