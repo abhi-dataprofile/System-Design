@@ -65,6 +65,7 @@ The running example is a multi-tenant operations assistant: it reads authorized 
 - [39 — Online experiments, shadow deployments, and causal measurement](lessons/39-online-experiments-shadow-deployments-and-causal-measurement.md)
 - [40 — Model monitoring, drift detection, and production feedback loops](lessons/40-model-monitoring-drift-detection-and-production-feedback-loops.md)
 - [41 — Labeling systems, active learning, and gold-dataset maintenance](lessons/41-labeling-systems-active-learning-and-gold-dataset-maintenance.md)
-- Next: model cascades, ensembles, routing, and abstention under uncertainty.
+- [42 — Model cascades, ensembles, routing, and abstention under uncertainty](lessons/42-model-cascades-ensembles-routing-and-abstention-under-uncertainty.md)
+- Next: knowledge graphs, entity resolution, and temporal graph reasoning.
 
 Each lesson includes a mental model, choices, failure modes, a worked example, interview practice, and references where useful. Daily updates should add a substantial lesson or refine an earlier one, update this index, and explain changes. Avoid invented performance claims.
