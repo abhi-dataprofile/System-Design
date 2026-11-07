@@ -68,6 +68,7 @@ The running example is a multi-tenant operations assistant: it reads authorized 
 - [42 — Model cascades, ensembles, routing, and abstention under uncertainty](lessons/42-model-cascades-ensembles-routing-and-abstention-under-uncertainty.md)
 - [43 — Knowledge graphs, entity resolution, and temporal graph reasoning](lessons/43-knowledge-graphs-entity-resolution-and-temporal-graph-reasoning.md)
 - [44 — Digital twins, spatial data, and operational state synchronization](lessons/44-digital-twins-spatial-data-and-operational-state-synchronization.md)
-- Next: AI gateways, provider abstraction, and multi-region control planes.
+- [45 — AI gateways, provider abstraction, and multi-region control planes](lessons/45-ai-gateways-provider-abstraction-and-multi-region-control-planes.md)
+- Next: confidential inference, data residency, and sovereign AI deployments.
 
 Each lesson includes a mental model, choices, failure modes, a worked example, interview practice, and references where useful. Daily updates should add a substantial lesson or refine an earlier one, update this index, and explain changes. Avoid invented performance claims.
