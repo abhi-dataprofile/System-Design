@@ -71,6 +71,7 @@ The running example is a multi-tenant operations assistant: it reads authorized 
 - [45 — AI gateways, provider abstraction, and multi-region control planes](lessons/45-ai-gateways-provider-abstraction-and-multi-region-control-planes.md)
 - [46 — Confidential inference, data residency, and sovereign AI deployments](lessons/46-confidential-inference-data-residency-and-sovereign-ai-deployments.md)
 - [47 — AI red teaming, adversarial testing, and abuse-resistant system design](lessons/47-ai-red-teaming-adversarial-testing-and-abuse-resistant-system-design.md)
-- Next: AI agent identity, delegated authorization, and workload credentials.
+- [48 — AI agent identity, delegated authorization, and workload credentials](lessons/48-ai-agent-identity-delegated-authorization-and-workload-credentials.md)
+- Next: secure code execution, sandboxing, and untrusted computation.
 
 Each lesson includes a mental model, choices, failure modes, a worked example, interview practice, and references where useful. Daily updates should add a substantial lesson or refine an earlier one, update this index, and explain changes. Avoid invented performance claims.
