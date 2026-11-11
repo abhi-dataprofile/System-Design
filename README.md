@@ -72,6 +72,7 @@ The running example is a multi-tenant operations assistant: it reads authorized 
 - [46 — Confidential inference, data residency, and sovereign AI deployments](lessons/46-confidential-inference-data-residency-and-sovereign-ai-deployments.md)
 - [47 — AI red teaming, adversarial testing, and abuse-resistant system design](lessons/47-ai-red-teaming-adversarial-testing-and-abuse-resistant-system-design.md)
 - [48 — AI agent identity, delegated authorization, and workload credentials](lessons/48-ai-agent-identity-delegated-authorization-and-workload-credentials.md)
-- Next: secure code execution, sandboxing, and untrusted computation.
+- [49 — Secure code execution, sandboxing, and untrusted computation](lessons/49-secure-code-execution-sandboxing-and-untrusted-computation.md)
+- Next: real-time multimodal agents, voice streaming, and interruption handling.
 
 Each lesson includes a mental model, choices, failure modes, a worked example, interview practice, and references where useful. Daily updates should add a substantial lesson or refine an earlier one, update this index, and explain changes. Avoid invented performance claims.
