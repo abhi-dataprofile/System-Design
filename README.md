@@ -73,6 +73,7 @@ The running example is a multi-tenant operations assistant: it reads authorized 
 - [47 — AI red teaming, adversarial testing, and abuse-resistant system design](lessons/47-ai-red-teaming-adversarial-testing-and-abuse-resistant-system-design.md)
 - [48 — AI agent identity, delegated authorization, and workload credentials](lessons/48-ai-agent-identity-delegated-authorization-and-workload-credentials.md)
 - [49 — Secure code execution, sandboxing, and untrusted computation](lessons/49-secure-code-execution-sandboxing-and-untrusted-computation.md)
-- Next: real-time multimodal agents, voice streaming, and interruption handling.
+- [50 — Real-time multimodal agents, voice streaming, and interruption handling](lessons/50-real-time-multimodal-agents-voice-streaming-and-interruption-handling.md)
+- Next: edge AI, offline-first inference, and intermittent-connectivity synchronization.
 
 Each lesson includes a mental model, choices, failure modes, a worked example, interview practice, and references where useful. Daily updates should add a substantial lesson or refine an earlier one, update this index, and explain changes. Avoid invented performance claims.
