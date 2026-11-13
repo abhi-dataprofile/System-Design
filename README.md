@@ -74,6 +74,7 @@ The running example is a multi-tenant operations assistant: it reads authorized 
 - [48 — AI agent identity, delegated authorization, and workload credentials](lessons/48-ai-agent-identity-delegated-authorization-and-workload-credentials.md)
 - [49 — Secure code execution, sandboxing, and untrusted computation](lessons/49-secure-code-execution-sandboxing-and-untrusted-computation.md)
 - [50 — Real-time multimodal agents, voice streaming, and interruption handling](lessons/50-real-time-multimodal-agents-voice-streaming-and-interruption-handling.md)
-- Next: edge AI, offline-first inference, and intermittent-connectivity synchronization.
+- [51 — Edge AI, offline-first inference, and intermittent-connectivity synchronization](lessons/51-edge-ai-offline-first-inference-and-intermittent-connectivity-synchronization.md)
+- Next: AI cost governance, unit economics, and capacity portfolios.
 
 Each lesson includes a mental model, choices, failure modes, a worked example, interview practice, and references where useful. Daily updates should add a substantial lesson or refine an earlier one, update this index, and explain changes. Avoid invented performance claims.
