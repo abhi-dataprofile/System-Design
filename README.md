@@ -75,6 +75,7 @@ The running example is a multi-tenant operations assistant: it reads authorized 
 - [49 — Secure code execution, sandboxing, and untrusted computation](lessons/49-secure-code-execution-sandboxing-and-untrusted-computation.md)
 - [50 — Real-time multimodal agents, voice streaming, and interruption handling](lessons/50-real-time-multimodal-agents-voice-streaming-and-interruption-handling.md)
 - [51 — Edge AI, offline-first inference, and intermittent-connectivity synchronization](lessons/51-edge-ai-offline-first-inference-and-intermittent-connectivity-synchronization.md)
-- Next: AI cost governance, unit economics, and capacity portfolios.
+- [52 — AI cost governance, unit economics, and capacity portfolios](lessons/52-ai-cost-governance-unit-economics-and-capacity-portfolios.md)
+- Next: AI incident response, model rollback, and forensic replay.
 
 Each lesson includes a mental model, choices, failure modes, a worked example, interview practice, and references where useful. Daily updates should add a substantial lesson or refine an earlier one, update this index, and explain changes. Avoid invented performance claims.
