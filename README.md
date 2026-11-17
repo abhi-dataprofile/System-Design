@@ -77,6 +77,7 @@ The running example is a multi-tenant operations assistant: it reads authorized 
 - [51 — Edge AI, offline-first inference, and intermittent-connectivity synchronization](lessons/51-edge-ai-offline-first-inference-and-intermittent-connectivity-synchronization.md)
 - [52 — AI cost governance, unit economics, and capacity portfolios](lessons/52-ai-cost-governance-unit-economics-and-capacity-portfolios.md)
 - [53 — AI incident response, model rollback, and forensic replay](lessons/53-ai-incident-response-model-rollback-and-forensic-replay.md)
-- Next: multi-tenant AI platform isolation, noisy neighbors, and fair scheduling.
+- [54 — Multi-tenant AI platform isolation, noisy neighbors, and fair scheduling](lessons/54-multi-tenant-ai-platform-isolation-noisy-neighbors-and-fair-scheduling.md)
+- Next: federated learning, privacy-preserving aggregation, and distributed model updates.
 
 Each lesson includes a mental model, choices, failure modes, a worked example, interview practice, and references where useful. Daily updates should add a substantial lesson or refine an earlier one, update this index, and explain changes. Avoid invented performance claims.
