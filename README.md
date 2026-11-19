@@ -79,6 +79,7 @@ The running example is a multi-tenant operations assistant: it reads authorized 
 - [53 — AI incident response, model rollback, and forensic replay](lessons/53-ai-incident-response-model-rollback-and-forensic-replay.md)
 - [54 — Multi-tenant AI platform isolation, noisy neighbors, and fair scheduling](lessons/54-multi-tenant-ai-platform-isolation-noisy-neighbors-and-fair-scheduling.md)
 - [55 — Federated learning, privacy-preserving aggregation, and distributed model updates](lessons/55-federated-learning-privacy-preserving-aggregation-and-distributed-model-updates.md)
-- Next: continual learning, catastrophic forgetting, and safe online adaptation.
+- [56 — Continual learning, catastrophic forgetting, and safe online adaptation](lessons/56-continual-learning-catastrophic-forgetting-and-safe-online-adaptation.md)
+- Next: model compression, quantization, distillation, and hardware-aware optimization.
 
 Each lesson includes a mental model, choices, failure modes, a worked example, interview practice, and references where useful. Daily updates should add a substantial lesson or refine an earlier one, update this index, and explain changes. Avoid invented performance claims.
