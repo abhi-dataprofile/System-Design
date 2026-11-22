@@ -82,6 +82,7 @@ The running example is a multi-tenant operations assistant: it reads authorized 
 - [56 — Continual learning, catastrophic forgetting, and safe online adaptation](lessons/56-continual-learning-catastrophic-forgetting-and-safe-online-adaptation.md)
 - [57 — Model compression, quantization, distillation, and hardware-aware optimization](lessons/57-model-compression-quantization-distillation-and-hardware-aware-optimization.md)
 - [58 — GPU cluster topology, collective communication, and distributed training reliability](lessons/58-gpu-cluster-topology-collective-communication-and-distributed-training-reliability.md)
-- Next: training-data deduplication, contamination detection, and benchmark integrity.
+- [59 — Training-data deduplication, contamination detection, and benchmark integrity](lessons/59-training-data-deduplication-contamination-detection-and-benchmark-integrity.md)
+- Next: synthetic-data generation, simulation fidelity, and recursive model collapse.
 
 Each lesson includes a mental model, choices, failure modes, a worked example, interview practice, and references where useful. Daily updates should add a substantial lesson or refine an earlier one, update this index, and explain changes. Avoid invented performance claims.
