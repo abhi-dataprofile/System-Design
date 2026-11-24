@@ -84,6 +84,7 @@ The running example is a multi-tenant operations assistant: it reads authorized 
 - [58 — GPU cluster topology, collective communication, and distributed training reliability](lessons/58-gpu-cluster-topology-collective-communication-and-distributed-training-reliability.md)
 - [59 — Training-data deduplication, contamination detection, and benchmark integrity](lessons/59-training-data-deduplication-contamination-detection-and-benchmark-integrity.md)
 - [60 — Synthetic-data generation, simulation fidelity, and recursive model collapse](lessons/60-synthetic-data-generation-simulation-fidelity-and-recursive-model-collapse.md)
-- Next: decision intelligence, optimization, simulation, and AI-assisted operations research.
+- [61 — Decision intelligence, optimization, simulation, and AI-assisted operations research](lessons/61-decision-intelligence-optimization-simulation-and-ai-assisted-operations-research.md)
+- Next: human-AI workflow orchestration, case management, and exception operations.
 
 Each lesson includes a mental model, choices, failure modes, a worked example, interview practice, and references where useful. Daily updates should add a substantial lesson or refine an earlier one, update this index, and explain changes. Avoid invented performance claims.
