@@ -86,6 +86,7 @@ The running example is a multi-tenant operations assistant: it reads authorized 
 - [60 — Synthetic-data generation, simulation fidelity, and recursive model collapse](lessons/60-synthetic-data-generation-simulation-fidelity-and-recursive-model-collapse.md)
 - [61 — Decision intelligence, optimization, simulation, and AI-assisted operations research](lessons/61-decision-intelligence-optimization-simulation-and-ai-assisted-operations-research.md)
 - [62 — Human-AI workflow orchestration, case management, and exception operations](lessons/62-human-ai-workflow-orchestration-case-management-and-exception-operations.md)
-- Next: process mining, conformance checking, and operational bottleneck discovery.
+- [63 — Process mining, conformance checking, and operational bottleneck discovery](lessons/63-process-mining-conformance-checking-and-operational-bottleneck-discovery.md)
+- Next: semantic layers, metrics contracts, and trustworthy natural-language analytics.
 
 Each lesson includes a mental model, choices, failure modes, a worked example, interview practice, and references where useful. Daily updates should add a substantial lesson or refine an earlier one, update this index, and explain changes. Avoid invented performance claims.
