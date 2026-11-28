@@ -88,6 +88,7 @@ The running example is a multi-tenant operations assistant: it reads authorized 
 - [62 — Human-AI workflow orchestration, case management, and exception operations](lessons/62-human-ai-workflow-orchestration-case-management-and-exception-operations.md)
 - [63 — Process mining, conformance checking, and operational bottleneck discovery](lessons/63-process-mining-conformance-checking-and-operational-bottleneck-discovery.md)
 - [64 — Semantic layers, metrics contracts, and trustworthy natural-language analytics](lessons/64-semantic-layers-metrics-contracts-and-trustworthy-natural-language-analytics.md)
-- Next: operational analytics, reverse ETL, and closed-loop decision systems.
+- [65 — Operational analytics, reverse ETL, and closed-loop decision systems](lessons/65-operational-analytics-reverse-etl-and-closed-loop-decision-systems.md)
+- Next: data products, platform governance, and federated ownership.
 
 Each lesson includes a mental model, choices, failure modes, a worked example, interview practice, and references where useful. Daily updates should add a substantial lesson or refine an earlier one, update this index, and explain changes. Avoid invented performance claims.
